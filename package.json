@@ -1,0 +1,30 @@
+{
+  "name": "@iroh-kit/linked-list",
+  "version": "1.0.0",
+  "description": "A reusable TypeScript module for npm.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "typescript",
+    "module",
+    "npm",
+    "reusable"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.0.5",
+    "ts-jest": "^29.4.0",
+    "typescript": "^5.0.0"
+  }
+}
