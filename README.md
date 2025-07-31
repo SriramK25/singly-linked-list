@@ -1,4 +1,4 @@
-# 🔗 iroh/linked-list
+# 🔗 @iroh-kit/linked-list
 
 A powerful, flexible, and type-safe implementation of a singly linked list in TypeScript, featuring unique node identifiers, deep cloning, iterable support, and modern APIs like `map`, `filter`, and `fromArray`.
 
@@ -21,9 +21,9 @@ A powerful, flexible, and type-safe implementation of a singly linked list in Ty
 ## 📦 Installation
 
 ```bash
-npm install @iroh/linked-list
+npm install @iroh-kit/linked-list
 # or
-yarn add @iroh/linked-list
+yarn add @iroh-kit/linked-list
 ```
 
 ---
